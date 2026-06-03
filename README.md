@@ -20,6 +20,10 @@ This project focuses on cleaning, preprocessing, and visualizing a heart disease
 * Matplotlib
 * Seaborn
 
+## Kaggle Dataset
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 ## Key Findings
 
 * Most patients are between 50–65 years old.
